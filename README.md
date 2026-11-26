@@ -1,2 +1,2 @@
 # http-client-workbench
-Eliminates third-party trademark references ("Postman") and highlights the actual engineering features (HTTP telemetry &amp; inspection).
+Lightweight browser REST API client with custom headers, JSON body editor, live HTTP fetch telemetry, and request history.
